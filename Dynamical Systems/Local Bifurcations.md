@@ -1,0 +1,1 @@
+Local bifurcations happen as [[Fixed Points|fixed points]] collide or change stability.

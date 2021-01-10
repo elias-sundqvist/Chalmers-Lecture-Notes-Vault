@@ -1,0 +1,1 @@
+An aperiodic chaotic trajectory is an [[Aperiodic Trajectory|aperiodic trajectory]] that is [[Chaos|chaotic]].

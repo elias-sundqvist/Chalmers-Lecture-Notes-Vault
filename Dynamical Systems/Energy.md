@@ -1,0 +1,1 @@
+Energy is an [[Integral Of Motion]] in classical mechanics that follows from the [[Time Independence]] [[Symmetries|symmetry]]  (See [[Noether's Theorem]])

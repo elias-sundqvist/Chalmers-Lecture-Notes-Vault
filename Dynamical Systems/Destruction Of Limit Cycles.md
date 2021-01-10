@@ -1,0 +1,1 @@
+[[Limit Cycle|Limit cycles]] can be destroyed through [[Bifurcation Of Cycles|bifurcations of cycles]], or throught the formation of [[Fixed Points|fixed points ]] on the [[Limit Cycle|limit cycle.]]

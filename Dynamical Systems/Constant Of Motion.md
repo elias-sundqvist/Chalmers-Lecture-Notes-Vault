@@ -1,0 +1,1 @@
+A constant of motion is similar to an [[Integral Of Motion]], but it may in addition depend explicitly on time. 

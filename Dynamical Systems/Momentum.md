@@ -1,0 +1,1 @@
+Momentum is an [[Integral Of Motion]] in classical mechanics that follows from the [[Space Independence]] [[Symmetries|symmetry]]. (See [[Noether's Theorem]])

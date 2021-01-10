@@ -1,0 +1,1 @@
+The normal forms of [[Bifurcation|bifuractions]] are very useful in order to study the dynamics close to a generic bifurcation of a given type. 

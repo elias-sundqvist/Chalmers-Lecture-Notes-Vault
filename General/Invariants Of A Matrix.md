@@ -1,0 +1,1 @@
+The invariants of an $n$-dimensional matrix $\mathbb M$ are $\text{tr}(\mathbb A),\text{tr}(\mathbb A^2),\dots,\text{tr}(\mathbb A^n)$

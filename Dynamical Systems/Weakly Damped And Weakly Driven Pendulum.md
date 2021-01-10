@@ -1,0 +1,1 @@
+![[Weakly Damped And Weakly Driven Pendulum Illustration.png]]

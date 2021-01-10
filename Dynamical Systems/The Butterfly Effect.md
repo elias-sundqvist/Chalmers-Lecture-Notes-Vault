@@ -1,0 +1,1 @@
+The flap of the wings of a butterfly can completely change the weather patterns days later (See [[Lyapunov Time]]). This is due to the fact that the weather is a [[Chaotic Systems|chaotic system]], and [[Chaotic Systems|chaotic systems]] are *sensitive to initial conditions* (small differences are amplified exponentially over time).

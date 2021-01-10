@@ -1,0 +1,1 @@
+The stability time of an [[Isolated Fixed Point|isolated fixed point]] is given by $\frac{1}{\left|\lambda\right|}$, where $\lambda$ is the [[Stability Exponent|stability exponent]] of the fixed point. 

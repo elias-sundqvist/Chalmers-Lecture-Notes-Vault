@@ -1,0 +1,1 @@
+The solution of a [[Discrete Dynamical Systems|discrete dynamical system]] $\mathbf x_i$ starting from $\mathbf x_0$ is called an orbit. 

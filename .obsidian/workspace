@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "ac8204ef56a3f913",
+    "type": "split",
+    "children": [
+      {
+        "id": "27cef673ea66e537",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODO Dynamical Systems.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97b29e5898e73434",
+    "type": "split",
+    "children": [
+      {
+        "id": "705b333a15617a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd435109e6ec2979",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1390d7049fac6df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "zero",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 491
+  },
+  "right": {
+    "id": "82392ae469f03033",
+    "type": "split",
+    "children": [
+      {
+        "id": "399ba0c74dc68d46",
+        "type": "tabs",
+        "dimension": 48.45261121856866,
+        "children": [
+          {
+            "id": "ebc6ae20bc17996d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO Dynamical Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "875d0a2dbac69381",
+        "type": "tabs",
+        "dimension": 51.54738878143134,
+        "children": [
+          {
+            "id": "e2266a3318764d6d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TODO Dynamical Systems.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224439
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 488
+  },
+  "lastOpenFiles": [
+    "TODO.md",
+    "Secular Terms.md",
+    "README.md",
+    "obsidian.md",
+    "Untitled.md",
+    "Dynamical Systems/Correlation Dimension.md",
+    "Dynamical Systems/Untitled.md",
+    "General/Untitled.md",
+    "Dynamical Systems/Information Dimension.md",
+    "Dynamical Systems/Generalized Dimension Spectrum.md"
+  ]
+}

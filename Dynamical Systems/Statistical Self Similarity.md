@@ -1,0 +1,1 @@
+A [[Fractal|fractal]] is statistically self-similar if magnification of small pieces results in a new set with similar geometric statistics (like the branching of a tree). 

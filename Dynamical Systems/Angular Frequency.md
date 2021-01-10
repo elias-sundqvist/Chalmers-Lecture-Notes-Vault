@@ -1,0 +1,1 @@
+In physics, the angular frequency $\omega$ is a scalar measure of rotation rate. It refers to the angular displacement per unit time.  It is typically measured in radians per second. 

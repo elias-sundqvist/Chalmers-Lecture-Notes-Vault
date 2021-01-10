@@ -1,0 +1,1 @@
+An aperiodic trajectory is a trajectory that never repeats (and is therefore infinitely long).

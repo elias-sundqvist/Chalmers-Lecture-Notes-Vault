@@ -1,0 +1,5 @@
+In a [[Billiard Systems|billiard system]] where the geometry of the billiard table is a rectangle, both $p_x^2$ and $p_y^2$ are [[Integral Of Motion|integrals of motion]], and the dynamics closely resemble those of [[Uncoupled Oscillators|uncoupled oscillators]]. Since the dimensionality $d=2$ and there are $d$ independent integrals of motion, this is an [[Integrable Billiard Systems|integrable billiard system]].
+
+![[Billiard System On A Rectangle Illustration.png]]
+
+The billiard [[Trajectory|trajectory]] (blue) is obtained by mirroring the [[Uncoupled Oscillators|uncoupled oscillator]] [[Trajectory|trajectory]] (red) around hte centers of the verical and horizontal axes. Depending on the ration $\frac{v_x}{v_y}$ we get a [[Closed Orbit|closed orbit]] (rational ration), or a [[Quasiperiodic Trajectory|quasiperiodic orbit]] (irrational ratio).

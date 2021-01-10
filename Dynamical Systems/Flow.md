@@ -1,0 +1,1 @@
+The [[Vector Field]] created by a [[Continuous Dynamical Systems|continuous dynamical system]] is called flow. 

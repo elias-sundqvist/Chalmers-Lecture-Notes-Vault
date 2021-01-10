@@ -1,0 +1,1 @@
+An isolated fixed point means that one can construct a region around the [[Fixed Points|fixed point]] such that no other fixed points lie within. 

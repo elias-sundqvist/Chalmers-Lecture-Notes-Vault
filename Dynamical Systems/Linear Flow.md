@@ -1,0 +1,1 @@
+A [[Flow]] is *linear*, if it can be written as $\dot {\mathbf x}=\mathbb M\mathbf x$, where $\mathbb M$ is a matrix of numbers.

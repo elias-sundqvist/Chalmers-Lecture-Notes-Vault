@@ -1,0 +1,1 @@
+Blow-Up happens when a solution reaches infinity in a finite time and no solution exists for later times. 

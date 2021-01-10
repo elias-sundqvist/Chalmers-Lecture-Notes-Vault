@@ -1,0 +1,1 @@
+![[Stable Degenerate Node Illustration.png]]

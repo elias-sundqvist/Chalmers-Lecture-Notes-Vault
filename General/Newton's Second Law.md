@@ -1,0 +1,1 @@
+$\mathbf F= m\mathbf a=m\ddot x$

@@ -1,0 +1,1 @@
+Equivalen to a [[Forced Pendulum With Friction]], superconducting device

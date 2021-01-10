@@ -1,0 +1,1 @@
+A [[Flow|flow]] is autonomus if it is time-independent

@@ -1,0 +1,1 @@
+The time it takes for a [[Closed Orbit]] to return to its initial state. 

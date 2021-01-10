@@ -1,0 +1,1 @@
+In [[Dynamical System|dynamical systems]],  manifolds typically refer to points, curves, or surfaces in the [[Phase Plane]]. In general it is defined as a set of points.  

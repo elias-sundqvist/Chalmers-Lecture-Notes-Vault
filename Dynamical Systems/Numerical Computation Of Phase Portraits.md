@@ -1,0 +1,3 @@
+**Numerical Computation Of [[Phase Portrait|Phase Portraits]]:**
+
+Using low-level language such as C++ without suitable external libraries, one may use a [[Runge-Kutta Integration]] scheme to compute [[Trajectory|trajectories]] from a set of initial conditions. Using Matlab or Mathematica, it is more convenient to use the built-in functions, e.g. [[StreamPlot]] in Mathematica to plot the flow, or [[NDSolve]] to find the trajectories. 

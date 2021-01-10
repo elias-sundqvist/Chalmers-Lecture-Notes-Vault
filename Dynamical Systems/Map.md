@@ -1,0 +1,1 @@
+The fuctions $\mathbf F=(F_1,\dots,F_n)$ are called a map (from $\mathbf x_i$ to $\mathbf x_{i+1}$) in a [[Discrete Dynamical Systems|discrete dynamical system]].

@@ -1,0 +1,1 @@
+$\mathbf F_A=-\mathbf F_B$

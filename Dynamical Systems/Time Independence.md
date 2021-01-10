@@ -1,0 +1,1 @@
+Time independence is a continuous symmetry that implies that the [[Dynamical System]] has [[Energy]] as an [[Integral Of Motion]]. (See [[Noether's Theorem]])

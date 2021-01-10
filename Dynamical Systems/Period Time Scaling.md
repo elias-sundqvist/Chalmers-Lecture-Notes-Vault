@@ -1,0 +1,3 @@
+A [[Slow Passage]] close to a [[Fixed Points|fixed point]] [[Bifurcation|bifurcation]] on a [[Periodic Orbit|periodic orbit]] has a *period time* that varies with the [[Bifurcation Parameter|bifurcation parameter]] (control parameter $\mu$). 
+
+The scaling of the period with the [[Bifurcation Parameter|control parameter]] $\mu$ is important in order to investigate oscillating ystems in numerical or real-life experiments. Observing amplitude and period time as $\mu$ is varied allows to identify or rule out what kind of system we have. 

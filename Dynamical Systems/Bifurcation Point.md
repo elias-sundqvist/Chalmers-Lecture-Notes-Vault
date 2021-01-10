@@ -1,0 +1,1 @@
+A bifurcation point is the value of the [[Bifurcation Parameter|bifurcation parameter]] where a [[Bifurcation|bifurcation]] occurs. 

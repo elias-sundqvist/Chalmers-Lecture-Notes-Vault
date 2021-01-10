@@ -1,0 +1,1 @@
+There exists an invertible matrix $\mathbb P$ such that $\mathbb P^{-1} \mathbb A\mathbb P=J$ is such that the only non-zero entries of $J$ are on the diagonal and the superdiagonal(one row above the diagonal), and all entries in the superdiagonal are $1$. 

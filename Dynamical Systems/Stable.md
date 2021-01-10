@@ -1,0 +1,1 @@
+A [[Fixed Points|fixed point]] or [[Closed Orbit|closed orbit]] is *Stable* if all nearby [[Trajectory|trajectories]] move towards the [[Fixed Points|fixed point]]/[[Closed Orbit|closed orbit]]. This means that the trajectory will "recover" from a small perturbation. 

@@ -1,0 +1,1 @@
+Rotational Symmetry is a continuous symmetry that implies that the [[Dynamical System]] has [[Angular Momentum]] as an [[Integral Of Motion]]. (See [[Noether's Theorem]])

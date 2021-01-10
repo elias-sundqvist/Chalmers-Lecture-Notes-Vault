@@ -1,0 +1,1 @@
+The [[Topology Of Dynamical System|topology of the dynamics matters]]: The [[Flows On The Cylinder|flow on a cylider]] allows for a new type of [[Periodic Orbit]] not encircling a fixed point ([[Rotations]]).

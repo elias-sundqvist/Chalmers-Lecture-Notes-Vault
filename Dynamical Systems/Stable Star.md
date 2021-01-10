@@ -1,0 +1,1 @@
+![[Stable Star Illustration.png]]

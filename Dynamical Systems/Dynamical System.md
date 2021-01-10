@@ -1,0 +1,1 @@
+A dynamical system is a set of quantities (system) with a rule for how these change with time (dynamical).

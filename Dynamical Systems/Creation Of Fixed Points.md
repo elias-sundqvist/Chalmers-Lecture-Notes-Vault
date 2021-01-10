@@ -1,0 +1,1 @@
+The most common mechanism for creation of fixed points is a [[Saddle-Node Bifurcation|saddle-node bifurcation]].

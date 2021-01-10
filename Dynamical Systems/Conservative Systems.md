@@ -1,0 +1,5 @@
+A conservative system is a [[Dynamical System|dynamical system]] that has one or more [[Integral Of Motion|integrals of motions]] (conserved quantities).
+
+A conservative system cannot have any attracting fixed points: If $\mathbf x^*$ was an attractive fixed point, then all points in the vasin of attraction move towards the fixe dpoint and must therefore have the same value of $E$ (the value at the fixed point). This implies that $E$ is constant on an open set in [[Phase Space|phase space]] and is therefore not conservative by definition. 
+
+Conservative or [[Reversible Systems|reversible systems]] tend to have [[Trajectory|trajectories]] connecting one fixed point with itself ([[Homoclinic Orbit|homoclinic orbits]], see for example the [[Double-Well Potential]]) or with another fixed point ([[Heteroclinic Trajectory|heteroclinic trajectory]]).

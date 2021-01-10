@@ -1,0 +1,1 @@
+$\dot x \equiv \frac{d}{dt}x$

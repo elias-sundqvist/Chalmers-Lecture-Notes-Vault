@@ -1,0 +1,1 @@
+A number is rational if it can be written as a ratio $p/q$ with $p$ and $q$ being integers.

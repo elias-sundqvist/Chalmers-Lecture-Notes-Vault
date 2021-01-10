@@ -1,0 +1,1 @@
+![[Line Of Stable Fixed Points Illustration.png]]

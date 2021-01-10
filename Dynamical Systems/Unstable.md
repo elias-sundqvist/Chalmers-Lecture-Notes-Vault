@@ -1,0 +1,1 @@
+A [[Fixed Points|fixed point]] or [[Closed Orbit|closed orbit]] is *Unstable* if any nearby [[Trajectory|trajectories]] moves away from the [[Fixed Points|fixed point]]/[[Closed Orbit|closed orbit]]. This means that the trajectory will diverge if a small perturbation is applied. 

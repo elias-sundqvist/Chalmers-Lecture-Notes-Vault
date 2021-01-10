@@ -1,0 +1,1 @@
+The heaviside function is given by $\theta(x)=\cases{0,&\(x<0\)\\1,&\(x\ge0\)}$

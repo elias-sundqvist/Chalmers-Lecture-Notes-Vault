@@ -1,0 +1,1 @@
+Ordinary differential equations can be written as derivatives with respect to a single coordinate. Commonly time $t$. 

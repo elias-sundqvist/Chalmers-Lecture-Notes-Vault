@@ -1,0 +1,1 @@
+The qualitative behaviour of a system is the rough properties, like what kind of [[Bifurcation|bifurcations]] might occur, or which [[Fixed Points|fixed points]] exists, etc. 

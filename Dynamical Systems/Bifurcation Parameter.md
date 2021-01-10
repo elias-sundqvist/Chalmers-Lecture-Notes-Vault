@@ -1,0 +1,1 @@
+A bifurcation parameter is a constant parameter of a [[Dynamical System]] that, when changed, can cause [[Bifurcation|bifurcations]]. 
